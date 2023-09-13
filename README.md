@@ -22,7 +22,7 @@
 
 |      Dialog Type      | Pricing |  Variants  | How to Acquire |
 |-----------------------|---------|------------|----------------|
-| Premium Dialog        | **Paid**| **∞**      | [Purchase](https://rebrand.ly/premium-dialog) |
+| Premium Dialog        | **Paid**| **∞**      | [Purchase]([https://rebrand.ly/premium-dialog](https://sites.google.com/view/dialog-maker/premium)) |
 | Classic Dialog        | Free    | 1          | From App       |
 | Logo Dialog           | Free    | 1          | From App       |
 | Image Dialog          | Free    | 1          | From App       |
